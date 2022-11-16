@@ -1,6 +1,1 @@
-LÁKI KVZOO
-AZAZ KÁVÉÁLLATKERT!
-
-
-LUCKY KVZOO
-COPYRIGHT 2019 Kizsi
+láki kvzoo
