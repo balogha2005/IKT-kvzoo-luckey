@@ -61,13 +61,13 @@ h2{
 }
 
 .card{
-    color: #1E3930;
-    background-color: #fff;
-    border: 1px solid #1E3930;
+    color: black;
+    background-color: #1E3930;
+    border: 1px solid black;
 }
 
 .card:hover{
-    box-shadow: 0px 0px 5px #1E3930;
+    box-shadow: 0px 0px 5px black;
 }
 
 h5{
@@ -87,9 +87,39 @@ a:hover{
     right: 20px;    
 }
 
+.modal-content{
+    background-color: #eadac0;
+}
+
+.blog-img {
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+p.szerzo {
+    text-align: right;
+}
+
+.box{
+    border: 10px solid black;
+}
+
+
+.box h2 {
+    font-size: 1.5rem;
+    background-color: white;
+    color: #fff;
+    padding: .5rem;
+}
+
+.box span.badge {
+    margin: .25rem;
+}
+
 .footer{
     background-color: #1E3930;
     color: white;
+    height: 00px;
 }
 
 footer li{
@@ -99,33 +129,4 @@ footer li{
 footer li>img{
     width: 15px;
     margin-right: 10px;
-}
-
-.modal-content{
-    background-color: #eadac0;
-}
-
-.blog-img {
-    border-radius: 4px;
-    border: 1px solid #1E3930;
-}
-
-p.szerzo {
-    text-align: right;
-}
-
-.box{
-    border: 10px solid #1E3930;
-}
-
-
-.box h2 {
-    font-size: 1.5rem;
-    background-color: #1E3930;
-    color: #fff;
-    padding: .5rem;
-}
-
-.box span.badge {
-    margin: .25rem;
 }
